@@ -3,6 +3,8 @@
 /**
  * quick_sort - Sorts an array of integers in
  * ascending order using Quick sort
+ * quick_sort_recursive - declare low and high
+ * lomuto_partition - use low and high
  * @array: Pointer to the array to be sorted
  * @size: Size of the array
  */
