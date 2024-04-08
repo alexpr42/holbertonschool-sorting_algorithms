@@ -23,7 +23,6 @@ struct listint_s *next;
  * @array: The array to be sorted
  * @size: The size of the array
  */
-
 void print_array(const int *array, size_t size);
 void print_list(const listint_t *list);
 void bubble_sort(int *array, size_t size);
